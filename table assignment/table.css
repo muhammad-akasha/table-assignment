@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+}
+tr {
+  border: 2px solid black;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  border: 2px solid black;
+  padding: 0px 17px 0px 17px;
+}
+th {
+  padding: 0px 23px 0px 23px;
+}
+body {
+  background-color: #a367b1;
+}
+.align {
+  writing-mode: vertical-lr;
+  border-top: hidden;
+  font-family: fantasy;
+  font-size: 20px;
+  padding: 10px;
+}  
+.gd {
+  background-color: rgb(255, 218, 96);
+}
+.web {
+  background-color: lightblue;
+}
+.vediting {
+  background-color: rgb(177, 255, 177);
+}
+.cco {
+  background-color: rgb(158, 217, 245);
+}
+.AI {
+  background-color: rgb(228, 164, 236);
+}
